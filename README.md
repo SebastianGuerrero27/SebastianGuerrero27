@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Marlon Sebastian Guerrero</h1>
 <h3 align="center">Estudiante de Ingeniería en Tecnologías de la Información en la Universidad Técnica de Ambato</h3>
 
-### 🐍 Snake Game (Contribuciones animadas)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
