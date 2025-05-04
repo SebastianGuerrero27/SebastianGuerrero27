@@ -38,17 +38,17 @@
 
 ### 📊 Estadísticas de GitHub:
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=github_dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SebastianGuerrero27&show_icons=true&theme=github_dark)
 
 ---
 
 ### 🏆 Trofeos de GitHub:
 
-[![Trofeos](https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trofeos](https://github-profile-trophy.vercel.app/?username=SebastianGuerrero27&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 🐍 Snake Game animado:
 
 ```html
-![Snake animation](https://github.com/TUUSUARIO/TUUSUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SebastianGuerrero27/SebastianGuerrero27/blob/output/github-contribution-grid-snake.svg)
