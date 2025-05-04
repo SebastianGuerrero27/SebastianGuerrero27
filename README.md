@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Marlon Sebastian Guerrero</h1>
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+<img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 <h3 align="center">Estudiante de Ingeniería en Tecnologías de la Información en la Universidad Técnica de Ambato</h3>
 
 
