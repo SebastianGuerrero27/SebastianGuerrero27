@@ -1,9 +1,15 @@
 <h1 align="center">Hola 👋, soy Marlon Sebastian Guerrero</h1>
 <h3 align="center">Estudiante de Ingeniería en Tecnologías de la Información en la Universidad Técnica de Ambato</h3>
 
-### 🐍 Snake Game (Contribuciones animadas)
+## 🐍 A Snake Eating My Contributions Graph
 
-![Snake animation](./assets/snake.svg)
+<p align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>
 
 <p align="center">
   💻 Apasionado por el desarrollo de software, microservicios y arquitecturas escalables.  
