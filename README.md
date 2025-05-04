@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, soy Marlon Sebastian Guerrero</h1>
 <h3 align="center">Estudiante de Ingeniería en Tecnologías de la Información en la Universidad Técnica de Ambato</h3>
 
-## 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
 	<picture>
